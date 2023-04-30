@@ -1,0 +1,22 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    /* fondo oscuro */
+    background-color: #000;
+    color: #fff;
+  }
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #fff;
+    color: #000;
+    border: 5px solid #060;
+    border-radius: 5px;
+}
