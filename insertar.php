@@ -6,7 +6,7 @@
     $cod_estudiante = $_POST['cod_estudiante']; 
     $dni            = $_POST['dni']; 
     $nombres        = $_POST['nombres'];
-    $apellidos      = $_POST['apellidosz'];
+    $apellidos      = $_POST['apellidos'];
 
     // aqui se hace la consulta sql
     /* $sql = "INSERT INTO alumno(cod_estudiante, dni, nombres, apellidos) VALUES ('$cod_estudiante','$dni','$nombres','$apellidos')"; */
